@@ -4,6 +4,7 @@
  Description: C program to calculate water billing system
 */
 
+#include<stdio.h>
 int main()
 {
  
