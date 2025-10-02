@@ -1,8 +1,9 @@
 /*
- Name:LAURENCE OCHIENG ODUORI
- Reg No:CT101/G/26674/25
- Description: C program to calculate water billing system
+Name:LAURENCE OCHIENG ODUORI
+Reg No:CT101/G/26674/25
+Description:C program to calculate water bill
 */
+
 
 #include<stdio.h>
 int main()
