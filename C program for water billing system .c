@@ -1,4 +1,8 @@
-#include<stdio.h>
+/*
+ Name:LAURENCE OCHIENG ODUORI
+ Reg No:CT101/G/26674/25
+ Description: C program to calculate water billing system
+*/
 
 int main()
 {
